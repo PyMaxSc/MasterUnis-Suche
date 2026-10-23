@@ -1,0 +1,12 @@
+[[127_QS_ComputerScienceInformationSystems]]
+[[51-100_QS_DataScienceAI]]
+[[151-200_GRAS_ArtificialIntelligence]]
+
+[[Top200_QS_ComputerScienceInformationSystems]]
+[[Top100_QS_DataScienceAI]]
+[[Top200_QS_DataScienceAI]]
+[[Top200_GRAS_ArtificialIntelligence]]
+
+[[Spanien]]
+
+#University
