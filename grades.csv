@@ -1,0 +1,53 @@
+Datum;Credits;Note;Status
+
+Studienrichtungskernmodule
+Methoden der Wirtschaftsinformatik I;5,0;2,2;Bestanden
+Methoden der Wirtschaftsinformatik II;5,0;1,2;Bestanden
+Integrationsseminar zu ausgewählten Themen der Wirtschaftsinformatik;;;Offen
+Grundlegende Konzepte der IT;5,0;3,0;Bestanden
+Datenbanken;5,0;1,0;Bestanden
+Geschäftsprozesse und deren Umsetzung;;;Offen
+Projekt;;;Offen
+Programmierung I;5,0;1,0;Bestanden
+Programmierung II;5,0;1,8;Bestanden
+Entwicklung verteilter Systeme;5,0;2,0;Bestanden
+Neue Konzepte;;;Offen
+Grundlagen der Betriebswirtschaftslehre;5,0;2,9;Bestanden
+Grundlagen der Rechnungslegung;5,0;2,2;Bestanden
+Finanzierung und Rechnungswesen;5,0;1,7;Bestanden
+Management;;;Offen
+VWL;5,0;1,9;Bestanden
+Recht;5,0;1,5;Bestanden
+Mathematik I;5,0;1,1;Bestanden
+Mathematik II;5,0;1,2;Bestanden
+Schlüsselqualifikationen I;5,0;b;Bestanden
+Schlüsselqualifikationen II;5,0;b;Bestanden
+Schlüsselqualifikationen III;;;Offen
+
+
+Studienrichtung
+Data Science
+Studienrichtungsmodule
+W3WI_DS301;Data Science Fundamentals;5,0;1,5;Bestanden
+W3WI_DS302;Big Data;5,0;1,6;Bestanden
+W3WI_DS303;Data Management;;;Offen
+W3WI_DS304;Machine Learning Fundamentals;5,0;1,1;Bestanden
+W3WI_DS305;Advanced Machine Learning;;;Offen
+W3WI_DS306;Data Analysis and Optimization;5,0;2,2;Bestanden
+
+Praxismodule
+W3WI_801;Praxismodul I;20,0;b;Bestanden
+W3WI_802;Praxismodul II;;;Offen
+W3WI_803;Praxismodul III;;;Offen
+
+Bachelorarbeit
+Bachelorarbeit;;;Offen
+
+
+Zusatzfächer
+STG-W-WI Zusatzfächer Wirtschaftsinformatik
+Summe STG-W-WI Zusatzfächer Wirtschaftsinformatik;;Bestanden
+
+Erforderliche Credits für Abschluss: 210,0 
+Gesamt-GPA;1,7
+Hauptfach-GPA;1,7

@@ -36,6 +36,6 @@ Admission results: End of April
 - **CV**
 - **Additional Documents**:
 ## Approximated Costs ([cost](https://www.ntnu.edu/studies/tuition-fee)):
-- **Study costs**: "Students belonging to one of these categories are exempted from the requirement to pay tuition fees: ... Citizens of an EU/EEA country or Switzerland"
+- **Study costs**: "Students belonging to one of these categories are exempted from the requirement to pay tuition fees: ... Citizens of an EU/EEA country or Switzerland"; ~ 70 USD
 - **Estimated cost of living**:
 - **Others**:
